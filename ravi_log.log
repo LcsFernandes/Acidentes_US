@@ -1,0 +1,167 @@
+2024-03-14 22:58:38 [ WARN ] [<mySpark local-1710467918169>] no config file found
+2024-03-14 22:58:38 [ WARN ] [<mySpark local-1710467918169>] etl_job is up-and-running
+2024-03-14 22:59:05 [ WARN ] [org.apache.spark.sql.catalyst.util.SparkStringUtils] Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.sql.debug.maxToStringFields'.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:13 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:13 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:13 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:14 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:14 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:14 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:14 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:14 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:24 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:24 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:25 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:25 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:25 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:25 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:25 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:26 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:27 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:27 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:28 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:28 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:28 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:28 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:28 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:28 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:38 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:38 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:38 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:38 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:38 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:38 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 22:59:38 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:00:42 [ WARN ] [org.apache.parquet.hadoop.MemoryManager] Total allocation exceeds 95.00% (1,020,054,720 bytes) of heap memory
+Scaling row group sizes to 95.00% for 8 writers
+2024-03-14 23:00:52 [ WARN ] [<mySpark local-1710467918169>] etl_job is finished
+2024-03-14 23:00:53 [ ERROR ] [org.apache.spark.util.ShutdownHookManager] Exception while deleting Spark temp dir: C:\Users\lucas\AppData\Local\Temp\spark-14b1b214-30d0-4946-be5b-a23eac42e1a9\pyspark-1193bfb8-dd11-4e27-a189-31f66b331c63
+java.nio.file.NoSuchFileException: C:\Users\lucas\AppData\Local\Temp\spark-14b1b214-30d0-4946-be5b-a23eac42e1a9\pyspark-1193bfb8-dd11-4e27-a189-31f66b331c63
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:199) ~[?:?]
+	at java.nio.file.Files.readAttributes(Files.java:1851) ~[?:?]
+	at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:124) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:117) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:90) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkFileUtils.deleteRecursively(SparkFileUtils.scala:121) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkFileUtils.deleteRecursively$(SparkFileUtils.scala:120) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1126) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4(ShutdownHookManager.scala:65) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4$adapted(ShutdownHookManager.scala:62) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36) ~[scala-library-2.12.18.jar:?]
+	at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33) ~[scala-library-2.12.18.jar:?]
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:198) ~[scala-library-2.12.18.jar:?]
+	at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$2(ShutdownHookManager.scala:62) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:214) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$2(ShutdownHookManager.scala:188) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23) ~[scala-library-2.12.18.jar:?]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1928) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$1(ShutdownHookManager.scala:188) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23) [scala-library-2.12.18.jar:?]
+	at scala.util.Try$.apply(Try.scala:213) [scala-library-2.12.18.jar:?]
+	at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188) [spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178) [spark-core_2.12-3.5.1.jar:3.5.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:842) [?:?]
+2024-03-14 23:05:04 [ WARN ] [<mySpark local-1710468303471>] no config file found
+2024-03-14 23:05:04 [ WARN ] [<mySpark local-1710468303471>] etl_job is up-and-running
+2024-03-14 23:05:33 [ WARN ] [org.apache.spark.sql.catalyst.util.SparkStringUtils] Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.sql.debug.maxToStringFields'.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:37 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:40 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:52 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:52 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:52 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:52 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:52 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:53 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:53 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:53 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:55 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:55 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:55 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:56 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:56 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:56 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:05:57 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:07 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:07 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:07 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:07 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:07 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:09 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:09 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:09 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:06:10 [ WARN ] [org.apache.spark.sql.catalyst.expressions.RowBasedKeyValueBatch] Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+2024-03-14 23:07:20 [ WARN ] [org.apache.parquet.hadoop.MemoryManager] Total allocation exceeds 95.00% (1,020,054,720 bytes) of heap memory
+Scaling row group sizes to 95.00% for 8 writers
+2024-03-14 23:07:35 [ WARN ] [<mySpark local-1710468303471>] etl_job is finished
+2024-03-14 23:07:36 [ ERROR ] [org.apache.spark.util.ShutdownHookManager] Exception while deleting Spark temp dir: C:\Users\lucas\AppData\Local\Temp\spark-cf9a71e8-6604-49e7-93e1-731c6719d7e0\pyspark-48830c1b-2431-4549-9222-f7a4eb0fe12b
+java.nio.file.NoSuchFileException: C:\Users\lucas\AppData\Local\Temp\spark-cf9a71e8-6604-49e7-93e1-731c6719d7e0\pyspark-48830c1b-2431-4549-9222-f7a4eb0fe12b
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:199) ~[?:?]
+	at java.nio.file.Files.readAttributes(Files.java:1851) ~[?:?]
+	at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:124) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:117) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:90) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkFileUtils.deleteRecursively(SparkFileUtils.scala:121) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkFileUtils.deleteRecursively$(SparkFileUtils.scala:120) ~[spark-common-utils_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1126) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4(ShutdownHookManager.scala:65) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4$adapted(ShutdownHookManager.scala:62) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36) ~[scala-library-2.12.18.jar:?]
+	at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33) ~[scala-library-2.12.18.jar:?]
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:198) ~[scala-library-2.12.18.jar:?]
+	at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$2(ShutdownHookManager.scala:62) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:214) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$2(ShutdownHookManager.scala:188) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23) ~[scala-library-2.12.18.jar:?]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1928) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$1(ShutdownHookManager.scala:188) ~[spark-core_2.12-3.5.1.jar:3.5.1]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23) [scala-library-2.12.18.jar:?]
+	at scala.util.Try$.apply(Try.scala:213) [scala-library-2.12.18.jar:?]
+	at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188) [spark-core_2.12-3.5.1.jar:3.5.1]
+	at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178) [spark-core_2.12-3.5.1.jar:3.5.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:842) [?:?]
+2024-03-14 23:15:20 [ WARN ] [<mySpark local-1710468919376>] no config file found
+2024-03-14 23:15:20 [ WARN ] [<mySpark local-1710468919376>] etl_job is up-and-running
+2024-03-14 23:15:45 [ WARN ] [<mySpark local-1710468919376>] etl_job is finished
