@@ -11,14 +11,14 @@ Este projeto é uma implementação de ETL (Extract, Transform, Load) utilizando
   - **Spark.py:** Aqui é definida a função start_spark, responsável por iniciar uma sessão Spark. Esta função configura a sessão Spark com parâmetros como nome da aplicação, mestre, pacotes JAR, arquivos, configurações Spark, etc. Além disso, ela configura o logger Spark utilizando a classe Log4j.
 
 - **Job:**
- - **etl_job.py:** Este arquivo contém o código principal do processo de ETL. Aqui são definidas as etapas de extração, transformação e carregamento dos dados. É onde as operações de leitura, transformação e escrita são realizadas utilizando as funcionalidades fornecidas pelo PySpark.
+  - **etl_job.py:** Este arquivo contém o código principal do processo de ETL. Aqui são definidas as etapas de extração, transformação e carregamento dos dados. É onde as operações de leitura, transformação e escrita são realizadas utilizando as funcionalidades fornecidas pelo PySpark.
 
 - #Test:
 
- - **test_etl_job.py:** Conjunto de testes unitários para validar o funcionamento da transformação de dados definida no arquivo etl_job.py
- - **log4j.properties:** Este arquivo contém as configurações do log4j, que é um framework de logging utilizado para registrar mensagens de log no ambiente Spark.
+  - **test_etl_job.py:** Conjunto de testes unitários para validar o funcionamento da transformação de dados definida no arquivo etl_job.py
+  - **log4j.properties:** Este arquivo contém as configurações do log4j, que é um framework de logging utilizado para registrar mensagens de log no ambiente Spark.
 
- - **testes_comando.ipynb:** Este arquivo Jupyter Notebook foi utilizado para testar o processo de ETL. Ele pode conter exemplos de como usar o job de ETL, carregar dados, executar transformações, etc.
+  - **testes_comando.ipynb:** Este arquivo Jupyter Notebook foi utilizado para testar o processo de ETL. Ele pode conter exemplos de como usar o job de ETL, carregar dados, executar transformações, etc.
 
 
 #### Funcionamento do Projeto:
