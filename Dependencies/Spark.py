@@ -37,7 +37,6 @@ def start_spark(app_name='my_spark_app', master='local[*]', jar_packages=[], fil
     spark_sess = spark_builder.getOrCreate()
     spark_logger = Logging.Log4j(spark_sess)
 
-    # get config file if sent to cluster with --files
     spark_files_dir = SparkFiles.getRootDirectory()
     config_files = [filename
                     for filename in listdir(spark_files_dir)
