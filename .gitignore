@@ -1,2 +1,4 @@
 venv/
 /US_Accidents_march23.csv
+/__pycache__
+Test/test_data/
