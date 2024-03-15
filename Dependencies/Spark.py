@@ -1,10 +1,3 @@
-"""
-spark.py
-~~~~~~~~
-
-Module containing helper function for use with Apache Spark
-"""
-
 import __main__
 
 from os import environ, listdir, path
@@ -12,7 +5,7 @@ import json
 from pyspark import SparkFiles
 from pyspark.sql import SparkSession
 
-from Dependencies import logging
+from Dependencies import Logging
 
 
 def start_spark(app_name='my_spark_app', master='local[*]', jar_packages=[], files=[], spark_config={}):
@@ -24,7 +17,7 @@ def start_spark(app_name='my_spark_app', master='local[*]', jar_packages=[], fil
         spark_builder = (
             SparkSession
             .builder
-            .appName(app_name))
+            .appName(app_name)) 
     else:
         spark_builder = (
             SparkSession
@@ -42,7 +35,7 @@ def start_spark(app_name='my_spark_app', master='local[*]', jar_packages=[], fil
             spark_builder.config(key, val)
 
     spark_sess = spark_builder.getOrCreate()
-    spark_logger = logging.Log4j(spark_sess)
+    spark_logger = Logging.Log4j(spark_sess)
 
     # get config file if sent to cluster with --files
     spark_files_dir = SparkFiles.getRootDirectory()
