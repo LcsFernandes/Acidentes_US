@@ -1,6 +1,6 @@
 ### Projeto de ETL utilizando PySpark
 
-Este projeto é uma implementação de ETL (Extract, Transform, Load) utilizando a biblioteca PySpark, que é uma interface Python para o framework de processamento distribuído Apache Spark. O objetivo deste projeto é fornecer uma estrutura básica para extrair dados, transformá-los e carregá-los em um destino, tudo isso de forma distribuída e eficiente.
+Este projeto é uma implementação de ETL (Extract, Transform, Load) utilizando a biblioteca PySpark, que é uma interface Python para o framework de processamento distribuído Apache Spark. O objetivo deste projeto é extrair dados, transformá-los e carregá-los em um destino, tudo isso de forma distribuída e eficiente.
 
 ### Estrutura do Projeto:
 
