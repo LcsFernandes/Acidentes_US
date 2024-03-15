@@ -13,7 +13,7 @@ Este projeto é uma implementação de ETL (Extract, Transform, Load) utilizando
 - **Job:**
   - **etl_job.py:** Este arquivo contém o código principal do processo de ETL. Aqui são definidas as etapas de extração, transformação e carregamento dos dados. É onde as operações de leitura, transformação e escrita são realizadas utilizando as funcionalidades fornecidas pelo PySpark.
 
-- ## Test:
+## Test:
 
   - **test_etl_job.py:** Conjunto de testes unitários para validar o funcionamento da transformação de dados definida no arquivo etl_job.py
   - **log4j.properties:** Este arquivo contém as configurações do log4j, que é um framework de logging utilizado para registrar mensagens de log no ambiente Spark.
