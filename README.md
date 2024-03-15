@@ -7,10 +7,8 @@ Este projeto é uma implementação de ETL (Extract, Transform, Load) utilizando
 - **Data:** Esta pasta contém o arquivo de dados transformados no formato Parquet. (Acidentes.parquet)
 
 - **Dependencies:**
-
- - **Logging.py:** Este arquivo contém uma classe Log4j que fornece métodos para log de diferentes níveis (error, warn, info). Ele é utilizado para configurar e gerenciar logs no ambiente Spark.
-
- - **Spark.py:** Aqui é definida a função start_spark, responsável por iniciar uma sessão Spark. Esta função configura a sessão Spark com parâmetros como nome da aplicação, mestre, pacotes JAR, arquivos, configurações Spark, etc. Além disso, ela configura o logger Spark utilizando a classe Log4j.
+  - **Logging.py:** Este arquivo contém uma classe Log4j que fornece métodos para log de diferentes níveis (error, warn, info). Ele é utilizado para configurar e gerenciar logs no ambiente Spark.
+  - **Spark.py:** Aqui é definida a função start_spark, responsável por iniciar uma sessão Spark. Esta função configura a sessão Spark com parâmetros como nome da aplicação, mestre, pacotes JAR, arquivos, configurações Spark, etc. Além disso, ela configura o logger Spark utilizando a classe Log4j.
 
 - **Job:**
  - **etl_job.py:** Este arquivo contém o código principal do processo de ETL. Aqui são definidas as etapas de extração, transformação e carregamento dos dados. É onde as operações de leitura, transformação e escrita são realizadas utilizando as funcionalidades fornecidas pelo PySpark.
